@@ -1,0 +1,12 @@
+# 本地可编辑安装——保持原生项目结构不变
+-e D:/Code/browser-use
+-e D:/Code/agent-reach/Agent-Reach
+
+# 核心依赖
+anthropic>=0.52.0
+langchain>=0.3.0
+langchain-anthropic>=0.3.0
+python-dotenv>=1.0.0
+streamlit>=1.40.0
+pydantic>=2.0.0
+nest-asyncio>=1.6.0

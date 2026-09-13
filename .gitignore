@@ -1,0 +1,20 @@
+# 密钥与本地配置 —— 绝不提交
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# browser-use 运行产物
+browseruse_agent_data/
+*.gif
