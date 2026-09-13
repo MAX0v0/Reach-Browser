@@ -18,3 +18,6 @@ venv/
 # browser-use 运行产物
 browseruse_agent_data/
 *.gif
+
+requirement.md
+requirements.txt
